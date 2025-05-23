@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="str1">Добро пожаловать!</string>
+    <string name="str2">Введите своё имя</string>
+    <string name="str3">Начать</string>
+</resources>
